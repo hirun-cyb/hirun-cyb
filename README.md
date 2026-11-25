@@ -20,18 +20,11 @@
 
 ## 🛡️ `ls ~/about_me`
 
-```text
-┌───────────────────────────────────────────────────────────────┐
-│  NAME        : YOUR NAME                                      │
-│  ROLE        : Cybersecurity learner → future professional    │
-│  FOCUS       : Networking • Threat Detection • Security Tools │
-│  CURRENTLY   : Building a log anomaly detector (mini SIEM)    │
-│  MINDSET     : Theory + hands-on practice + critical thinking │
-│  MOTTO       : "Understand the attack, then build the defense"│
-│  STATUS      : [██████████░░░░░░░░░░] learning... always      │
-└───────────────────────────────────────────────────────────────┘
-```
-
+- 🌱 I’m currently learning **Pearson B-Tech HND - Cyber Security**
+- 💻 I love building innovative solutions and exploring new technologies
+- ⚡ Fun fact **call me as fernzz**
+- 📫 How to reach me: **hirunfernz313@gmail.com**
+- 🎯 2026 Goals: Contribute more to Open Source projects
 ---
 
 ## 🧰 `ls ~/skills`
@@ -98,7 +91,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer" width="100%" />
 
 <div align="center">
- <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100" />
  <h4>Thanks for visiting my profile! Have a great day! ✨</h4>
 </div>
 
