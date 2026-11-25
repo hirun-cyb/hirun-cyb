@@ -73,20 +73,16 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<!-- Needs a GitHub Action: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/hirun-cyb/hirun-cyb/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
+ <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </div>
 
 ---
 
 ## 💡 `fortune`
 
-<div align="center"> 
-  <img src="assets/quote.svg" alt="Security is not a product, but a process - Bruce Schneier" width="100%" /> 
+<div align="center">
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
-
 ---
 
 ## 📫 `connect --me`
@@ -101,6 +97,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer" width="100%" />
 
-`$ echo "Thanks for stopping by. Stay secure. 🔐"`
+<div align="center">
+ <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100" />
+ <h4>Thanks for visiting my profile! Have a great day! ✨</h4>
+</div>
 
 </div>
