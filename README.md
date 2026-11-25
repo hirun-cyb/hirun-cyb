@@ -24,7 +24,7 @@
 ┌───────────────────────────────────────────────────────────────┐
 │  NAME        : YOUR NAME                                      │
 │  ROLE        : Cybersecurity learner → future professional    │
-│  FOCUS       : Networking • Threat Detection • Security Tools │                                       │
+│  FOCUS       : Networking • Threat Detection • Security Tools │
 │  CURRENTLY   : Building a log anomaly detector (mini SIEM)    │
 │  MINDSET     : Theory + hands-on practice + critical thinking │
 │  MOTTO       : "Understand the attack, then build the defense"│
