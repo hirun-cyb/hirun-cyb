@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=%3E+whoami;Aspiring+Cybersecurity+Professional;Breaking+things+to+learn+how+to+protect+them;Building+tools.+Reading+logs.+Staying+curious." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=60&lines=Hello%2C+I%27m+Hirun+Fernando+%F0%9F%91%8B;Cyber+Security+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Learning+%E2%80%A2+Building+%E2%80%A2+Securing" alt="Typing SVG" /> <br/>
 
 <br/>
 
@@ -18,14 +18,13 @@
 
 ---
 
-## 🛡️ `cat about_me.txt`
+## 🛡️ `ls ~/about_me`
 
 ```text
 ┌───────────────────────────────────────────────────────────────┐
 │  NAME        : YOUR NAME                                      │
 │  ROLE        : Cybersecurity learner → future professional    │
-│  FOCUS       : Networking • Threat Detection • Security Tools │
-│  OS          : Fedora Linux 🐧                                │
+│  FOCUS       : Networking • Threat Detection • Security Tools │                                       │
 │  CURRENTLY   : Building a log anomaly detector (mini SIEM)    │
 │  MINDSET     : Theory + hands-on practice + critical thinking │
 │  MOTTO       : "Understand the attack, then build the defense"│
@@ -56,32 +55,16 @@
 
 ---
 
-
-## 🎯 `cat roadmap.md`
-
-```diff
-+ [x] Build a secure login/signup system with a real database
-+ [x] Learn Linux as a daily driver
-! [~] Ship the log anomaly detector (mini SIEM)
-! [~] Deepen networking fundamentals
-- [ ] Build an nmap-style scanner in Python
-- [ ] Practice on TryHackMe / Hack The Box
-- [ ] Earn a foundational cert (Security+ / CompTIA / similar)
-- [ ] Land a cybersecurity role
-```
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hirun-cyb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirun-cyb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hirun-cyb&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
 
 </div>
 
@@ -92,7 +75,7 @@
 <div align="center">
 
 <!-- Needs a GitHub Action: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/hirun-cyb/hirun-cyb/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
@@ -100,10 +83,8 @@
 
 ## 💡 `fortune`
 
-<div align="center">
-
-> *"Security is not a product, but a process."* — Bruce Schneier
-
+<div align="center"> 
+  <img src="assets/quote.svg" alt="Security is not a product, but a process - Bruce Schneier" width="100%" /> 
 </div>
 
 ---
